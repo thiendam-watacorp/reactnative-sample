@@ -1,0 +1,27 @@
+[
+  {
+      "id": 1,
+      "CompanyName": "xyz",
+      "Country": "Canada",
+      "City": "Abbotsford",
+      "Region": "British Columbia",
+      "StreetAddress": "31260 xyz",
+      "PostalCode": "V2T 6L5",
+      "PhoneNumber": "+1 123123",
+      "FaxNumber": "+1 123123",
+      "Website": "www.xyz.com",
+      "Email": "xyz@xyz.com",
+      "OpeningDayFrom": "monday",
+      "OpeningDayTo": "friday",
+      "OpeningTimeFrom": "8:00:00",
+      "OpeningTimeTo": "17:00:00",
+      "Latitude": 49.123132,
+      "Longitude": -122.123123,
+      "IndustrialService":true,
+      "IndustrialServicePower": false,
+      "MarineService": false,
+      "IndustrialPowerSale": false,
+      "MarineSales": false,
+      "ScaniaPartsSales":true
+  }
+]
